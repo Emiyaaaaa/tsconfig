@@ -9,6 +9,9 @@
 		"email": "emiya@emiya.com.cn",
 		"url": "https://emiya.com.cn"
 	},
+  "publishConfig": {
+    "access": "public"
+  },
 	"main": "tsconfig.json",
 	"files": [
 		"tsconfig.json"
