@@ -1,0 +1,16 @@
+{
+	"name": "@emiyaaaaa/tsconfig",
+	"version": "1.0.0",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "emiyaaaaa/tsconfig",
+	"author": {
+		"name": "Haozheng Li",
+		"email": "emiya@emiya.com.cn",
+		"url": "https://emiya.com.cn"
+	},
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	]
+}
